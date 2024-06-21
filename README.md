@@ -88,12 +88,12 @@ Outside of work, I enjoy hiking, photography, design, and music.
 - Technologies: React, Node Js, MongoDB
 - [GitHub Repo Frontend](https://github.com/nashirjamali/staycation-website) 
 - [GitHub Repo Backend](https://github.com/nashirjamali/staycation_server)
-- [Demo] (https://staycation.nashirjamali.com)
+- [Demo](https://staycation.nashirjamali.com)
 
 ### E-learning Website
 - Description: E-learning for online courses.
 - Technologies: React, Next JS, Laravel, Node Js, MySQL
-- [Demo] (https://elearning.nashirjamali.com)
+- [Demo](https://elearning.nashirjamali.com)
 
 ## 📫 Contact
 
