@@ -86,7 +86,8 @@ Outside of work, I enjoy hiking, photography, design, and music.
 ### Staycation Website
 - Description: Booking villa or hotel application based on website.
 - Technologies: React, Node Js, MongoDB
-- [GitHub Repo](https://github.com/nashirjamali/staycation-website) (https://github.com/nashirjamali/staycation_server)
+- [GitHub Repo Frontend](https://github.com/nashirjamali/staycation-website) 
+- [GitHub Repo Backend](https://github.com/nashirjamali/staycation_server)
 - [Demo] (https://staycation.nashirjamali.com)
 
 ### E-learning Website
